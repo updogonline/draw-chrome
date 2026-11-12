@@ -19,7 +19,12 @@ Draw Chrome is a cyberpunk hack of Draw Steel, in early prototyping. The Claude 
 - [[Career - Sysadmin]]
 - [[Traits]]
 - [[Chrome]]
+- [[Street Styles]]
 - [[Stress]]
+
+## Sheets
+
+- `Sheets/Draw Chrome Character Sheet.pdf`: fillable Character and Chrome sheets
 
 ## Classes
 

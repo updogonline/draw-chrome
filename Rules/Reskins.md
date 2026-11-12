@@ -12,7 +12,7 @@ Most Draw Steel terms get a new name and keep their rules. Where a rule changes,
 | Career | Career | Ex-cop, corpo exec, smuggler, ripperdoc's assistant. |
 | Kit | Loadout | A weapon and armor package. Guns get the treatment melee weapons get in Draw Steel. |
 | Victories | Streak | Earned per gig, cashed in during a Crash. |
-| Hero Tokens | Style | Earned by doing it cool, not by doing it smart. |
+| Hero Tokens | Style Tokens | Earned by doing it cool, not by doing it smart. |
 | Malice | Heat | The Director's resource. Rises as alarms trip and bodies drop. |
 | Respite | Crash | Safehouse downtime. Heal, install [[Chrome]], fence loot. |
 | Treasures | Chrome | Implants fill slots in 5 body areas. Stacking slots in one area adds permanent [[Stress]]. |
